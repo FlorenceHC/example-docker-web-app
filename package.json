@@ -1,0 +1,13 @@
+{
+  "name": "example-docker-web-app",
+  "version": "1.0.0",
+  "description": "Example Node.js app packed in Docker",
+  "author": "Aleksandar Diklic <aleksandar.diklic@florencehc.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
